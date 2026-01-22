@@ -1,0 +1,19 @@
+{
+  "name": "opc-stack",
+  "version": "1.0.0",
+  "description": "OPC Stack - 面向超级个体与超级团队的能力栈",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "opc",
+    "stack",
+    "navigation"
+  ],
+  "author": "OPC Stack",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
